@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "postgresql-42.7.1.jar",
+    "bin/postgresql-42.7.1.jar"
+  ]
+}
